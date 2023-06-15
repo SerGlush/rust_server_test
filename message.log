@@ -1,0 +1,1275 @@
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 134
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%D0%B0%D1%86%D0%B0%D1%86%D1%83%D0%B0%D1%86%D1%83%D0%B0&program-input=%D1%86%D1%83%D0%B0%D1%86%D1%83%D0%B0%D1%86%D1%83%D0%B0
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 134
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%D0%B0%D1%86%D0%B0%D1%86%D1%83%D0%B0%D1%86%D1%83%D0%B0&program-input=%D1%86%D1%83%D0%B0%D1%86%D1%83%D0%B0%D1%86%D1%83%D0%B0
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 80
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%D0%B0%D1%86%D0%B0%D1%86%D1%83%D0%B0%D1%86%D1%83%D0%B0&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 80
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%D0%B0%D1%86%D0%B0%D1%86%D1%83%D0%B0%D1%86%D1%83%D0%B0&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 80
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%D0%B0%D1%86%D0%B0%D1%86%D1%83%D0%B0%D1%86%D1%83%D0%B0&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 80
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%D0%B0%D1%86%D0%B0%D1%86%D1%83%D0%B0%D1%86%D1%83%D0%B0&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 80
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%D0%B0%D1%86%D0%B0%D1%86%D1%83%D0%B0%D1%86%D1%83%D0%B0&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 80
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%D0%B0%D1%86%D0%B0%D1%86%D1%83%D0%B0%D1%86%D1%83%D0%B0&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 80
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%D0%B0%D1%86%D0%B0%D1%86%D1%83%D0%B0%D1%86%D1%83%D0%B0&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 80
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%D0%B0%D1%86%D0%B0%D1%86%D1%83%D0%B0%D1%86%D1%83%D0%B0&program-input=
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+GET /favicon.ico HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+
+
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+
+
+
+GET /favicon.ico HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+
+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Content-Length: 29
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Origin: http://26.83.183.116:7878
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+
+code-input=lol&program-input=
+
+
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+
+
+
+
+
+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Content-Length: 252
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Origin: http://26.83.183.116:7878
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29+%7B%0D%0Acout+%3C%3C+%22sup+guys+im+quandale+dingle+i+have+been+arrested+for+several+crimes+%3ALKGHDF%3AJGDF%22%3B%0D%0A%0D%0Areturn+0%3B%0D%0A%7D&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Content-Length: 252
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Origin: http://26.83.183.116:7878
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29+%7B%0D%0Acout+%3C%3C+%22sup+guys+im+quandale+dingle+i+have+been+arrested+for+several+crimes+%3ALKGHDF%3AJGDF%22%3B%0D%0A%0D%0Areturn+0%3B%0D%0A%7D&program-input=
+
+
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+
+
+
+GET /favicon.ico HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+
+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Content-Length: 62
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Origin: http://26.83.183.116:7878
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+
+code-input=%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Content-Length: 354
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Origin: http://26.83.183.116:7878
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=25.0+75.0
+
+
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+GET /favicon.ico HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+
+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 38
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%F0%9F%98%80&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 506
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 506
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80&program-input=
+
+GET /favicon.ico HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+
+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 506
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 506
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 506
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80&program-input=
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+DNT: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Content-Length: 44
+Cache-Control: max-age=0
+Origin: http://26.83.183.116:7878
+DNT: 1
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+code-input=%D0%A5%D0%A3%D0%99&program-input=
+
+GET /favicon.ico HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+DNT: 1
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Content-Length: 341
+Cache-Control: max-age=0
+Origin: http://26.83.183.116:7878
+DNT: 1
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Content-Length: 344
+Cache-Control: max-age=0
+Origin: http://26.83.183.116:7878
+DNT: 1
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A%0D%0A++++return+0%3B%0D%0A%7D&program-input=1+2
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Content-Length: 344
+Cache-Control: max-age=0
+Origin: http://26.83.183.116:7878
+DNT: 1
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A%0D%0A++++return+0%3B%0D%0A%7D&program-input=2+5
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Content-Length: 344
+Cache-Control: max-age=0
+Origin: http://26.83.183.116:7878
+DNT: 1
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A%0D%0A++++return+0%3B%0D%0A%7D&program-input=2+5
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Content-Length: 286
+Cache-Control: max-age=0
+Origin: http://26.83.183.116:7878
+DNT: 1
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++for+%28int+num+%3D+1000%3B+num+%3E+0%3B+num+-%3D7%29+%7B+cout+%3C%3C+num+%3C%3C+%22+-+7%22+%3C%3C+endl%3B+Sleep%2830%29%3B+%7D%0D%0A%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Content-Length: 317
+Cache-Control: max-age=0
+Origin: http://26.83.183.116:7878
+DNT: 1
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+code-input=%23include+%3Ciostream%3E%0D%0A%23include+%3Cwindow.h%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++for+%28int+num+%3D+1000%3B+num+%3E+0%3B+num+-%3D7%29+%7B+cout+%3C%3C+num+%3C%3C+%22+-+7%22+%3C%3C+endl%3B+Sleep%2830%29%3B+%7D%0D%0A%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Content-Length: 318
+Cache-Control: max-age=0
+Origin: http://26.83.183.116:7878
+DNT: 1
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+code-input=%23include+%3Ciostream%3E%0D%0A%23include+%3Cwindows.h%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++for+%28int+num+%3D+1000%3B+num+%3E+0%3B+num+-%3D7%29+%7B+cout+%3C%3C+num+%3C%3C+%22+-+7%22+%3C%3C+endl%3B+Sleep%2830%29%3B+%7D%0D%0A%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+GET /favicon.ico HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+
+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 78
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=uf+++++++++++++++rru&program-input=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 684
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=uf+++++++++++++++rru%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D
+
+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 664
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 984
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D+%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 345
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 348
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=1+4
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 345
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+DNT: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+GET /favicon.ico HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+DNT: 1
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+DNT: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 345
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Content-Length: 210
+Cache-Control: max-age=0
+Origin: http://26.83.183.116:7878
+DNT: 1
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+code-input=%2F%2F+Your+First+C%2B%2B+Program%0D%0A%0D%0A%23include+%3Ciostream%3E%0D%0A%0D%0Aint+main%28%29+%7B%0D%0A++++std%3A%3Acout+%3C%3C+%22Hello+World%21%22%3B%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 345
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 345
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+Connection: keep-alive
+Content-Length: 210
+Cache-Control: max-age=0
+Origin: http://26.83.183.116:7878
+DNT: 1
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://26.83.183.116:7878/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+code-input=%2F%2F+Your+First+C%2B%2B+Program%0D%0A%0D%0A%23include+%3Ciostream%3E%0D%0A%0D%0Aint+main%28%29+%7B%0D%0A++++std%3A%3Acout+%3C%3C+%22Hello+World%21%22%3B%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://26.83.183.116:7878/
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 348
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=5+1
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 226
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++int+number+%3D+0%3B%0D%0A++++while%28true%29+number%2B%2B%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=35
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://26.83.183.116:7878/
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 348
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=5+1
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 208
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++int+number+%3D+0%3B%0D%0A++++number%2B%2B%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 211
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++int+number+%3D+0%3B%0D%0A++++number%2B%2B%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=25+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 213
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++int+number+%3D+250%3B%0D%0A++++number+%2F%3D+0%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://26.83.183.116:7878/
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 213
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++int+number+%3D+250%3B%0D%0A++++number+%2F%3D+0%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://26.83.183.116:7878/
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 213
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++int+number+%3D+250%3B%0D%0A++++number+%2F%3D+0%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+GET /favicon.ico HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+
+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 1268
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%2F%2F+C%2B%2B+program+for+implementation%0D%0A%2F%2F+of+Bubble+sort%0D%0A%23include+%3Cbits%2Fstdc%2B%2B.h%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0A%2F%2F+A+function+to+implement+bubble+sort%0D%0Avoid+bubbleSort%28int+arr%5B%5D%2C+int+n%29%0D%0A%7B%0D%0A%09int+i%2C+j%3B%0D%0A%09for+%28i+%3D+0%3B+i+%3C+n+-+1%3B+i%2B%2B%29%0D%0A%0D%0A%09%09%2F%2F+Last+i+elements+are+already%0D%0A%09%09%2F%2F+in+place%0D%0A%09%09for+%28j+%3D+0%3B+j+%3C+n+-+i+-+1%3B+j%2B%2B%29%0D%0A%09%09%09if+%28arr%5Bj%5D+%3E+arr%5Bj+%2B+1%5D%29%0D%0A%09%09%09%09swap%28arr%5Bj%5D%2C+arr%5Bj+%2B+1%5D%29%3B%0D%0A%7D%0D%0A%0D%0A%2F%2F+Function+to+print+an+array%0D%0Avoid+printArray%28int+arr%5B%5D%2C+int+size%29%0D%0A%7B%0D%0A%09int+i%3B%0D%0A%09for+%28i+%3D+0%3B+i+%3C+size%3B+i%2B%2B%29%0D%0A%09%09cout+%3C%3C+arr%5Bi%5D+%3C%3C+%22+%22%3B%0D%0A%09cout+%3C%3C+endl%3B%0D%0A%7D%0D%0A%0D%0A%2F%2F+Driver+code%0D%0Aint+main%28%29%0D%0A%7B%0D%0A%09int+arr%5B%5D+%3D+%7B+5%2C+1%2C+4%2C+2%2C+8%7D%3B%0D%0A%09int+N+%3D+sizeof%28arr%29+%2F+sizeof%28arr%5B0%5D%29%3B%0D%0A%09bubbleSort%28arr%2C+N%29%3B%0D%0A%09cout+%3C%3C+%22Sorted+array%3A+%5Cn%22%3B%0D%0A%09printArray%28arr%2C+N%29%3B%0D%0A%09return+0%3B%0D%0A%7D%0D%0A%2F%2F+This+code+is+contributed+by+rathbhupendra%0D%0A&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 1262
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%2F%2F+C%2B%2B+program+for+implementation%0D%0A%2F%2F+of+Bubble+sort%0D%0A%23include+%3Cbits%2Fstdc%2B%2B.h%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0A%2F%2F+A+function+to+implement+bubble+sort%0D%0Avoid+bubbleSort%28int+arr%5B%5D%2C+int+n%29%0D%0A%7B%0D%0A%09int+i%2C+j%3B%0D%0A%09for+%28i+%3D+0%3B+i+%3C+n+-+1%3B+i%2B%2B%29%0D%0A%0D%0A%09%09%2F%2F+Last+i+elements+are+already%0D%0A%09%09%2F%2F+in+place%0D%0A%09%09for+%28j+%3D+0%3B+j+%3C+n+-+i+-+1%3B+j%2B%2B%29%0D%0A%09%09%09if+%28arr%5Bj%5D+%3E+arr%5Bj+%2B+1%5D%29%0D%0A%09%09%09%09swap%28arr%5Bj%5D%2C+arr%5Bj+%2B+1%5D%29%3B%0D%0A%7D%0D%0A%0D%0A%2F%2F+Function+to+print+an+array%0D%0Avoid+printArray%28int+arr%5B%5D%2C+int+size%29%0D%0A%7B%0D%0A%09int+i%3B%0D%0A%09for+%28i+%3D+0%3B+i+%3C+size%3B+i%2B%2B%29%0D%0A%09%09cout+%3C%3C+arr%5Bi%5D+%3C%3C+%22+%22%3B%0D%0A%09cout+%3C%3C+endl%3B%0D%0A%7D%0D%0A%0D%0A%2F%2F+Driver+code%0D%0Aint+main%28%29%0D%0A%7B%0D%0A%09int+arr%5B%5D+%3D+%7B+5%2C+1%2C+4%2C+2%2C+8%7D%3B%0D%0A%09int+N+%3D+sizeof%28arr%29+%2F+sizeof%28arr%5B0%5D%29%3B%0D%0A%09bubbleSort%28arr%2C+N%29%3B%0D%0A%09cout+%3C%3C+%22Sorted+array%3A+%5Cn%22%3B%0D%0A%09printArray%28arr%2C+N%29%3B%0D%0A%09return+0%3B%0D%0A%7D%0D%0A%2F%2F+This+code+is+contributed+by+rathbhupendra&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 1262
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%2F%2F+C%2B%2B+program+for+implementation%0D%0A%2F%2F+of+Bubble+sort%0D%0A%23include+%3Cbits%2Fstdc%2B%2B.h%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0A%2F%2F+A+function+to+implement+bubble+sort%0D%0Avoid+bubbleSort%28int+arr%5B%5D%2C+int+n%29%0D%0A%7B%0D%0A%09int+i%2C+j%3B%0D%0A%09for+%28i+%3D+0%3B+i+%3C+n+-+1%3B+i%2B%2B%29%0D%0A%0D%0A%09%09%2F%2F+Last+i+elements+are+already%0D%0A%09%09%2F%2F+in+place%0D%0A%09%09for+%28j+%3D+0%3B+j+%3C+n+-+i+-+1%3B+j%2B%2B%29%0D%0A%09%09%09if+%28arr%5Bj%5D+%3E+arr%5Bj+%2B+1%5D%29%0D%0A%09%09%09%09swap%28arr%5Bj%5D%2C+arr%5Bj+%2B+1%5D%29%3B%0D%0A%7D%0D%0A%0D%0A%2F%2F+Function+to+print+an+array%0D%0Avoid+printArray%28int+arr%5B%5D%2C+int+size%29%0D%0A%7B%0D%0A%09int+i%3B%0D%0A%09for+%28i+%3D+0%3B+i+%3C+size%3B+i%2B%2B%29%0D%0A%09%09cout+%3C%3C+arr%5Bi%5D+%3C%3C+%22+%22%3B%0D%0A%09cout+%3C%3C+endl%3B%0D%0A%7D%0D%0A%0D%0A%2F%2F+Driver+code%0D%0Aint+main%28%29%0D%0A%7B%0D%0A%09int+arr%5B%5D+%3D+%7B+5%2C+1%2C+4%2C+2%2C+8%7D%3B%0D%0A%09int+N+%3D+sizeof%28arr%29+%2F+sizeof%28arr%5B0%5D%29%3B%0D%0A%09bubbleSort%28arr%2C+N%29%3B%0D%0A%09cout+%3C%3C+%22Sorted+array%3A+%5Cn%22%3B%0D%0A%09printArray%28arr%2C+N%29%3B%0D%0A%09return+0%3B%0D%0A%7D%0D%0A%2F%2F+This+code+is+contributed+by+rathbhupendra&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 1262
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%2F%2F+C%2B%2B+program+for+implementation%0D%0A%2F%2F+of+Bubble+sort%0D%0A%23include+%3Cbits%2Fstdc%2B%2B.h%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0A%2F%2F+A+function+to+implement+bubble+sort%0D%0Avoid+bubbleSort%28int+arr%5B%5D%2C+int+n%29%0D%0A%7B%0D%0A%09int+i%2C+j%3B%0D%0A%09for+%28i+%3D+0%3B+i+%3C+n+-+1%3B+i%2B%2B%29%0D%0A%0D%0A%09%09%2F%2F+Last+i+elements+are+already%0D%0A%09%09%2F%2F+in+place%0D%0A%09%09for+%28j+%3D+0%3B+j+%3C+n+-+i+-+1%3B+j%2B%2B%29%0D%0A%09%09%09if+%28arr%5Bj%5D+%3E+arr%5Bj+%2B+1%5D%29%0D%0A%09%09%09%09swap%28arr%5Bj%5D%2C+arr%5Bj+%2B+1%5D%29%3B%0D%0A%7D%0D%0A%0D%0A%2F%2F+Function+to+print+an+array%0D%0Avoid+printArray%28int+arr%5B%5D%2C+int+size%29%0D%0A%7B%0D%0A%09int+i%3B%0D%0A%09for+%28i+%3D+0%3B+i+%3C+size%3B+i%2B%2B%29%0D%0A%09%09cout+%3C%3C+arr%5Bi%5D+%3C%3C+%22+%22%3B%0D%0A%09cout+%3C%3C+endl%3B%0D%0A%7D%0D%0A%0D%0A%2F%2F+Driver+code%0D%0Aint+main%28%29%0D%0A%7B%0D%0A%09int+arr%5B%5D+%3D+%7B+5%2C+1%2C+4%2C+2%2C+8%7D%3B%0D%0A%09int+N+%3D+sizeof%28arr%29+%2F+sizeof%28arr%5B0%5D%29%3B%0D%0A%09bubbleSort%28arr%2C+N%29%3B%0D%0A%09cout+%3C%3C+%22Sorted+array%3A+%5Cn%22%3B%0D%0A%09printArray%28arr%2C+N%29%3B%0D%0A%09return+0%3B%0D%0A%7D%0D%0A%2F%2F+This+code+is+contributed+by+rathbhupendra&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 976
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23+Python+program+for+implementation+of+Bubble+Sort%0D%0A+%0D%0A+%0D%0Adef+bubbleSort%28arr%29%3A%0D%0A++++n+%3D+len%28arr%29%0D%0A+%0D%0A++++%23+Traverse+through+all+array+elements%0D%0A++++for+i+in+range%28n%29%3A%0D%0A+%0D%0A++++++++%23+Last+i+elements+are+already+in+place%0D%0A++++++++for+j+in+range%280%2C+n-i-1%29%3A%0D%0A+%0D%0A++++++++++++%23+traverse+the+array+from+0+to+n-i-1%0D%0A++++++++++++%23+Swap+if+the+element+found+is+greater%0D%0A++++++++++++%23+than+the+next+element%0D%0A++++++++++++if+arr%5Bj%5D+%3E+arr%5Bj%2B1%5D%3A%0D%0A++++++++++++++++arr%5Bj%5D%2C+arr%5Bj%2B1%5D+%3D+arr%5Bj%2B1%5D%2C+arr%5Bj%5D%0D%0A+%0D%0A+%0D%0A%23+Driver+code+to+test+above%0D%0Aif+__name__+%3D%3D+%22__main__%22%3A%0D%0A++arr+%3D+%5B5%2C+1%2C+4%2C+2%2C+8%5D%0D%0A+%0D%0A++bubbleSort%28arr%29%0D%0A+%0D%0A++print%28%22Sorted+array+is%3A%22%29%0D%0A++for+i+in+range%28len%28arr%29%29%3A%0D%0A++++++print%28%22%25d%22+%25+arr%5Bi%5D%2C+end%3D%22+%22%29&program-input=
+
+GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: ffea28c6-64a9-4d24-9223-1bbb879a54ee
+Host: 26.83.183.116:7878
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+
+POST /?code-input=int%20main(){return%200;} HTTP/1.1
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: e155144f-639b-4f8c-ac11-023c3a9c89e1
+Host: 26.83.183.116:7878
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 0
+
+
+
+GET / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+GET /favicon.ico HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+
+
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 349
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=5+10
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 349
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=5+10
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 345
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://26.83.183.116:7878/
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 349
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++float+first_number%3B%0D%0A++++float+second_number%3B%0D%0A%0D%0A++++cin+%3E%3E+first_number+%3E%3E+second_number%3B%0D%0A++++cout+%3C%3C+first_number+*+second_number+%3C%3C+endl%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=5+10
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 182
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++while%28true%29%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=
+
+POST / HTTP/1.1
+Host: 26.83.183.116:7878
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 181
+Origin: http://26.83.183.116:7878
+Connection: keep-alive
+Referer: http://26.83.183.116:7878/
+Upgrade-Insecure-Requests: 1
+
+code-input=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main%28%29%0D%0A%7B%0D%0A++++while%280%29%3B%0D%0A++++%0D%0A++++return+0%3B%0D%0A%7D&program-input=+1
+
